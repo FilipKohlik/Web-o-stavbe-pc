@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/css/main.cf6f6759.chunk.css",
-    "main.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/main.57774c19.chunk.js",
-    "main.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/main.57774c19.chunk.js.map",
+    "main.css": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/css/main.ee26f500.chunk.css",
+    "main.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/main.7be8c86f.chunk.js",
+    "main.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/main.7be8c86f.chunk.js.map",
     "runtime-main.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/runtime-main.0691dff7.js",
     "runtime-main.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/runtime-main.0691dff7.js.map",
-    "static/js/2.4047054c.chunk.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.4047054c.chunk.js",
-    "static/js/2.4047054c.chunk.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.4047054c.chunk.js.map",
+    "static/js/2.f3087e2e.chunk.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.f3087e2e.chunk.js",
+    "static/js/2.f3087e2e.chunk.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.f3087e2e.chunk.js.map",
     "static/js/3.d394d56d.chunk.js": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/3.d394d56d.chunk.js",
     "static/js/3.d394d56d.chunk.js.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/3.d394d56d.chunk.js.map",
     "index.html": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/index.html",
-    "static/css/main.cf6f6759.chunk.css.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/css/main.cf6f6759.chunk.css.map",
-    "static/js/2.4047054c.chunk.js.LICENSE.txt": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.4047054c.chunk.js.LICENSE.txt"
+    "static/css/main.ee26f500.chunk.css.map": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/css/main.ee26f500.chunk.css.map",
+    "static/js/2.f3087e2e.chunk.js.LICENSE.txt": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/js/2.f3087e2e.chunk.js.LICENSE.txt",
+    "static/media/pc_case.15c2af58.jpg": "/http//FilipKohlik.github.io/Web-o-stavbe-pc/static/media/pc_case.15c2af58.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0691dff7.js",
-    "static/js/2.4047054c.chunk.js",
-    "static/css/main.cf6f6759.chunk.css",
-    "static/js/main.57774c19.chunk.js"
+    "static/js/2.f3087e2e.chunk.js",
+    "static/css/main.ee26f500.chunk.css",
+    "static/js/main.7be8c86f.chunk.js"
   ]
 }
